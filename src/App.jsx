@@ -1,9 +1,9 @@
-import Navbar from "./components/Navbar";
-import MainPart from "./components/mainPart";
-import SecondPart from "./components/secondPart";
-import ThirdPart from "./components/thirdPart";
-import FourthPart from "./components/fourthPart";
-import FifthPart from "./components/fifthPart";
+import Navbar from "./components/Navbar.jsx";
+import MainPart from "./components/mainPart.jsx";
+import SecondPart from "./components/secondPart.jsx";
+import ThirdPart from "./components/thirdPart.jsx";
+import FourthPart from "./components/fourthPart.jsx";
+import FifthPart from "./components/fifthPart.jsx";
 
 export default function App() {
   return (

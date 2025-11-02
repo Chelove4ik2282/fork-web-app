@@ -1,5 +1,5 @@
 
-import GitHubButtons from "./githubButtons";
+import GitHubButtons from "./githubButtons.jsx";
 import './../index.css';
 
 export default function SecondPart() {
