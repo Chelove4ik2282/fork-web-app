@@ -1,4 +1,4 @@
-import Navbar from "./components/Navbar.jsx";
+import Navbar from "./components/navbar.jsx";
 import MainPart from "./components/mainPart.jsx";
 import SecondPart from "./components/secondPart.jsx";
 import ThirdPart from "./components/thirdPart.jsx";
