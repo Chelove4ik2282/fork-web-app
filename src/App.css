@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+@import "tailwindcss";
+
+html, body {
+  background-color: #000000;
+  height: 100%;
+
+}
+@theme{
+    --font-lato: 'Lato',  cursive;
+    --font-montserrat: 'Montserrat', cursive;
+} 
