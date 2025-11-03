@@ -47,7 +47,7 @@ export default function FourthPart() {
             className="object-contain mx-auto"
           />
         </div>
-        <p className="text-gray-400 text-[14px]">{feature.desc}</p>
+        <i className="text-white text-[14px]">{feature.desc}</i>
       </div>
     ))}
   </div> 
